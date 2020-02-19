@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: 我的疯狂管道，github云平台编译
+name: 编译X86_32版本
 
 on:
   push:
