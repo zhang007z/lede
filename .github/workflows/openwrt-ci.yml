@@ -10,9 +10,9 @@
 name: 我的疯狂管道，github云平台编译
 
 on:
-  push:
-    branches: 
-      - master
+  #push:
+    #branches: 
+      #- master
   # schedule:
   #   - cron: 0 20 * * *
   # release:
